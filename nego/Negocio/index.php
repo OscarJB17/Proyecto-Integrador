@@ -70,7 +70,7 @@ if (!empty($_SESSION['activa'])) {
       </div>
       <div class="col" style="background-color:#d56bfa;">
         <div class="row">
-          <h1 style="color: #343a40;">AUTENTIFICACIÓN</h1>
+          <h1 style="color: #343a40;">Oscar Jimenez</h1>
         </div>
         <form style="padding: 26px;" method="POST">
           <div>
