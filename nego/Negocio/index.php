@@ -71,6 +71,7 @@ if (!empty($_SESSION['activa'])) {
       <div class="col" style="background-color:#d56bfa;">
         <div class="row">
           <h1 style="color: #343a40;">Oscar Jimenez Bañuelos 123</h1>
+          <h1 style="color: #343a40;">Antonio</h1>
         </div>
         <form style="padding: 26px;" method="POST">
           <div>
