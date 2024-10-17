@@ -72,6 +72,8 @@ if (!empty($_SESSION['activa'])) {
         <div class="row">
           <h1 style="color: #343a40;">Oscar Jimenez Bañuelos 123</h1>
           <h1 style="color: #343a40;">Antonio</h1>
+          <h1 style="color: #343a40;">Holaaa</h1>
+
         </div>
         <form style="padding: 26px;" method="POST">
           <div>
